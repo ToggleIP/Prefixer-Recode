@@ -1,0 +1,11 @@
+main: nl.AverageKevin.Prefixer.main
+name: Prefixer
+version: 2.0
+author: AverageKevin
+description: Fully Recode of Prefixer!
+commands:
+  prefix:
+        description: add player prefix
+        usage: /<command>
+        permission: prefixer.prefix
+        permission-message: No Permission
